@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # Face Ticket Activity Manager
+  # Ticket Activity Manager
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 <div align="center">
@@ -22,6 +22,10 @@
 
 > [!WARNING]  
 > You need **`npm i node-cron`** or **`npm i cron`** installed for scheduled jobs.
+
+---
+
+![image(2)](https://github.com/user-attachments/assets/510ce86c-87fa-4d95-9fd8-3f2213618bef)
 
 ---
 
