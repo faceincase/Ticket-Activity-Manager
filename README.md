@@ -14,7 +14,7 @@
 </div>
 
   <p>
-    Tool that monitors opened tickets, ensuring timely responses by notifying users and admins about inactivity or delays.
+    Tool that monitors opened tickets, ensuring quick responses by notifying users and admins about inactivity or delays.
     <br>
     It helps maintain efficient ticket handling and improves support workflow.
   </p>
